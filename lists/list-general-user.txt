@@ -1,0 +1,3 @@
+# Never leave this file empty
+domain.example.abc
+# NetTellerHope/zapret-telegram 10d328889149
